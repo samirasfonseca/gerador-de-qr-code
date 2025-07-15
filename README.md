@@ -47,6 +47,9 @@ Após a instalação, você pode rodar o projeto diretamente no terminal.
 
 ## 📸 Demonstração
 
+![QR Code](./monstruario.png)
+
+
 ### 📱 Gerando um QR Code:
 
 $ npm run start
